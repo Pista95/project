@@ -4,7 +4,9 @@ public class Progi {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("próba");
+		for(int i=0; i<10;i++) {
+			System.out.println("próba "+(i+1));
+		}
 	}
 
 }
